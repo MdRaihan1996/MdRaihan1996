@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m a Software engineer currently working with<br>fullstack-Java-based web applications and backend development using Spring Boot, REST APIs, and Microservices.<br><br>👯 I’m looking to collaborate on<br>Open-source Java, Spring Boot, and Backend Development projects.<br><br>🤝 I’m looking for help with<br>Advanced Microservices architecture, system design, and performance optimization.<br><br>🌱 I’m currently learning<br>Microservices, Docker, System Design, and Cloud technologies (AWS basics).<br><br>💬 Ask me about<br>Java, Spring Boot, REST API Development, Backend Architecture, and Database Integration (MySQL).
+🔭 I’m a Software engineer currently working with<br>fullstack-Java-based web applications and backend development using Spring Boot, REST APIs, and Microservices.<br><br>👯 I’m looking to collaborate on<br>Open-source Java, Spring Boot, and Backend Development projects.<br><br>🤝 I’m looking for help with<br>Advanced Microservices architecture, system design, and performance optimization.<br><br>🌱 I’m currently learning<br>Artificial Intelligence integration in software development, Python for AI/ML, and modern technologies to build smarter and more efficient applications.  
+Exploring how AI tools can assist in writing optimized and high-quality code.<br><br>💬 Ask me about<br>Java, Spring Boot, REST API Development, Backend Architecture, and Database Integration (MySQL).
 
 
 ## 🌐 Socials:
